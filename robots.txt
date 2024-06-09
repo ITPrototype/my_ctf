@@ -1,0 +1,3 @@
+User-agent: *
+
+# flag 1chi qismi ctf{Y0u_
